@@ -10,7 +10,7 @@ Upon several questions, the patient’s case is determined whether is urgent or 
 **Implementation:** <br>
 Our system has a front end implemented with HTML, CSS, Bootstrap, JS and the backend implemented with Node JS, MySQL(Database).<br>
 
-**2 Zip folders:** each contain 2 folders <br>
+**3 Zip folders:**  archive 1 and 2 for frontend , backend.zip for form backend <br>
 Home folder: home and signup page<br>
 Patient folder: Patient view pages<br>
 doctor folder: doctor view pages<br>
