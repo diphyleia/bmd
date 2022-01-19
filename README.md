@@ -18,10 +18,10 @@ Admin folder: admin view pages <br>
  
 **Screenshots** <br>
 **Home and signup page**<br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/diphyleia/bmd/blob/[branch]/image.jpg?raw=true)
 <br>**patient**<br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/diphyleia/bmd/blob/[branch]/image.jpg?raw=true)
 <br>**Admin**<br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/diphyleia/bmd/blob/[branch]/image.jpg?raw=true)
 <br>**Doctor**<br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/diphyleia/bmd/blob/[branch]/image.jpg?raw=true)
